@@ -1,0 +1,10 @@
+* translate
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/dkochmanski/translate.git   |
+| commit  |   |
+| systems | translate |
+|---------+-------------------------------------------|
+
