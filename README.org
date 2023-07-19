@@ -1,10 +1,9 @@
 * translate
 
+Thin abstraction layer over strings allowing a multilingual translations
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/dkochmanski/translate.git   |
-| commit  |   |
-| systems | translate |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/dkochmanski/translate.git |
+| commit  | 4173abd                                                      |
+| systems | translate                                                    |
+|---------+--------------------------------------------------------------|
