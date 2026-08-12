@@ -7,4 +7,4 @@ Thin abstraction layer over strings allowing a multilingual translations
 | commit  | 4173abd                                                      |
 | systems | translate                                                    |
 |---------+--------------------------------------------------------------|
- 
+  
